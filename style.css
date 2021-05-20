@@ -1,10 +1,10 @@
-
 .body{
   font-family: Arial, Helvetica, sans-serif;
   margin: auto;
   padding: 20px 20px 50px 20px;
   background-color: #2F4F4F;
 }
+
 .header {
   text-align: center;
   font-size: 60px;
@@ -13,13 +13,13 @@
   font-family: 'Brush Script MT', cursive;
   margin-top: 20px;
   text-shadow: 2px 2px 4px #A9A9A9;
-
 }
 
 .myForm{
   border: 0px;
   font-family: Arial;
 }
+
 #naslov {
   width: 50%;
   padding: 15px;
@@ -27,7 +27,6 @@
   display: block;
   border: none;
   border-radius: 10px;
-
 }
 
 #sadrzaj{
@@ -59,22 +58,19 @@
   opacity: 0.7;
 }
 
-#trash{
-  float: right;
-}
 .close {
   position: absolute;
   right: 0;
   top: 0;
   padding: 40px;
   background-color: red;
-
 }
 
 .close:hover {
   background-color: red;
   color: red;
 }
+
 #myDiv{
   width: 60%;
   padding: 15px;
@@ -82,29 +78,26 @@
   display: block;
   border: none;
   border-radius: 10px;
-
 }
+
 #mainCard{
-  
   border-radius: 15px;
   background-color: #F5DEB3;
   border: none;
   padding-bottom: 10px;
   margin-bottom: 15px;
-  
 }
+
 #mainHeader{
   background-color: #3CB371;
   border-radius: 10px;
   font-family: Lucida Console;
   font-weight: bold;
 }
+
 #mainBody {  
-  
   border-radius: 15px;
   margin-bottom: auto;
   border: none;
   font-style: oblique;
-
-
 }
